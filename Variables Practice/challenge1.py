@@ -4,3 +4,5 @@ fname = input("What is your first name? ")
 lname = input("What is your last name? ")
 
 print(f"Your name is {fname} {lname}")
+
+#24 minutes in John Ryans python course
